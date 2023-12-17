@@ -1,0 +1,3 @@
+[submodule "contrib/folly"]
+	path = contrib/folly
+	url = git@github.com:facebook/folly.git
